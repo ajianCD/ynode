@@ -1,0 +1,19 @@
+{
+  "name": "react-cnode-teach",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --config build/webpack.config.js"
+  },
+  "author": "sccin-expert",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.2.0",
+    "webpack": "^4.0.1"
+  },
+  "devDependencies": {
+    "webpack-cli": "^2.0.9"
+  }
+}
